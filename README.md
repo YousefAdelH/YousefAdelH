@@ -11,12 +11,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-<style>
-  .custom-img {
-    width: 50px;
-    height: 50px;
-  }
-</style>
+
 <hr>
 
 <h4>🔭  I’m currently working with ...</h4>
@@ -28,13 +23,13 @@
 
 <hr>
 
-<h4>🌱  I'm currently learning...</h4>
+<!-- <h4>🌱  I'm currently learning...</h4>
 <p >
   <img src="https://d1uxiwmpc9j4yg.cloudfront.net/images/all/ios-icon-logo-software-phone-apple-symbol-with-name-black-design-mobile-illustration-free-vector_1687630747.jpeg" class="custom-img" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://devathon.com/blog/wp-content/uploads/sites/2/2020/01/androidnative-faded.jpg"class="custom-img" />&nbsp;&nbsp;&nbsp;
   <img src="https://blogct.creative-tim.com/blog/content/images/wordpress/2017/03/AngularJS-e1487056257254.png" class="custom-img"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white"class="custom-img" />&nbsp;&nbsp;&nbsp;
-</p>
+</p> -->
 
 <p align='right'>
 <h4>💬  Sometimes I like to write things here...</h4>
