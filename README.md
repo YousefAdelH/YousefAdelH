@@ -11,7 +11,12 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-
+<style>
+  .custom-img {
+    width: 50px;
+    height: 50px;
+  }
+</style>
 <hr>
 
 <h4>🔭  I’m currently working with ...</h4>
@@ -46,9 +51,3 @@
   <a href="steamcommunity.com/id/SteVasc/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <h5 align="right">🎮 To have fun and spend time...</h5>
 </p>
-<style>
-  .custom-img {
-    width: 50px;
-    height: 50px;
-  }
-</style>
